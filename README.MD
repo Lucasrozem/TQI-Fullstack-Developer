@@ -1,3 +1,4 @@
-# Lucasrozem
+# Lucasrozem - TQI Fullstack Developer 
 
-	Retratando a evolução durante o bootcamp TQI Fullstack Developer da DIO.
+	Retratando a evolução durante o bootcamp da DIO.
+
