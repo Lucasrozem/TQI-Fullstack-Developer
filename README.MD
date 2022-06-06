@@ -4,8 +4,8 @@
 
 ## Módulo I - Conteúdo de abertura
 	
-	* Boa-vindas ao TQI Fullstack Developer !Check
-	* Seja Protagonista Neste Bootcamp !Check
+	* Boa-vindas ao TQI Fullstack Developer ✔
+	* Seja Protagonista Neste Bootcamp ✔
 	* Introdução à Programação e Pensamento Computacional
-	* Introdução ao Git e ao GitHub
+	* Introdução ao Git e ao GitHub ✔
 	
