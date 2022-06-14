@@ -6,6 +6,11 @@
 	
 	* Boa-vindas ao TQI Fullstack Developer ✔
 	* Seja Protagonista Neste Bootcamp ✔
-	* Introdução à Programação e Pensamento Computacional
+	* Introdução à Programação e Pensamento Computacional ✔
 	* Introdução ao Git e ao GitHub ✔
+
+## Módulo V - SQL
+	
+	* MySQL - Trabalhando com as suas primeiras tabelas
+	* MySQL - Consultas com Join
 	
