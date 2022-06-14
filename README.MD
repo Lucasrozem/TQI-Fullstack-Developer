@@ -13,4 +13,10 @@
 	
 	* MySQL - Trabalhando com as suas primeiras tabelas
 	* MySQL - Consultas com Join
+
+## Módulo VIII - QA
+	
+	* Fundamentos de Qualidade de Software
+	* Metodologias Ágeis e Ciclo de Desenvolvimento de Software
+	* Introdução a Testes de Software
 	
