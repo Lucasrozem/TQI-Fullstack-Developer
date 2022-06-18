@@ -11,8 +11,8 @@
 
 ## Módulo V - SQL
 	
-	* MySQL - Trabalhando com as suas primeiras tabelas
-	* MySQL - Consultas com Join
+	* MySQL - Trabalhando com as suas primeiras tabelas ✔
+	* MySQL - Consultas com Join ✔
 
 ## Módulo VIII - QA
 	
